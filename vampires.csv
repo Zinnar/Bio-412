@@ -1,0 +1,15 @@
+predictor,group,distance,possible.pairs,sharing.pairs
+Association,Possible,0,1,0
+Association,Possible,0.2,1,0
+Association,Possible,0.3,4,0
+Association,Possible,0.4,8,0
+Association,Possible,0.5,14,0
+Association,Possible,0.6,47,1
+Association,Possible,0.7,80,9
+Association,Possible,0.8,46,10
+Association,Possible,0.9,3,1
+Relatedness,Possible,0,81,1
+Relatedness,Possible,0.1,20,2
+Relatedness,Possible,0.1,40,2
+Relatedness,Possible,0.2,40,7
+Relatedness,Possible,0.5,21,9
